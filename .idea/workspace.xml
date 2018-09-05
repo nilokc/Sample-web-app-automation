@@ -1,0 +1,529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py" line="0" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9452d258-f5e1-4c6b-af6c-e43aed18a442" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1636079111">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.123" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.55" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.opened" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="log" value="10" />
+          <entry key="png" value="9" />
+          <entry key="py" value="46" />
+          <entry key="pyi" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="9" />
+          <entry key="Log" value="10" />
+          <entry key="Python" value="46" />
+          <entry key="PythonStub" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="40" />
+          <entry key="py" value="13379" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="13419" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+              <folding>
+                <element signature="e#0#54#0" expanded="true" />
+                <marker date="1534323205266" expanded="true" signature="136:138" ph="..." />
+                <marker date="1534323205266" expanded="true" signature="1619:1625" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumScripts/CafeBaseCode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1573">
+              <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+              <folding>
+                <marker date="1534323646256" expanded="true" signature="1275:1751" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/SeleniumScripts/list_elements.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>as</find>
+      <find>get</find>
+      <find>rand</find>
+      <find>full</find>
+      <find>delete</find>
+      <find>/html/body/div[1]/div/div/div/ul/li[2]</find>
+      <find>/html/body/div[1]/div/div/div/ul/li[3]</find>
+      <find>fire</find>
+      <find>safa</find>
+      <find>set</find>
+      <find>driver</find>
+      <find>setup</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>self.driver</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/mypython/HelloWorld.py" />
+        <option value="$PROJECT_DIR$/mypython/RunTheTestBy.py" />
+        <option value="$PROJECT_DIR$/mypython/FirstTest_Selenium.py" />
+        <option value="$PROJECT_DIR$/mypython/FirstTest_Selenium2.py" />
+        <option value="$PROJECT_DIR$/mypython/BrowserTest.py" />
+        <option value="$PROJECT_DIR$/mypython/SampleWebApi.py" />
+        <option value="$PROJECT_DIR$/mypython/Sample Browser Automation.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/FindChromPath.py" />
+        <option value="$PROJECT_DIR$/../Auto_Web/Test/test.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/MyFirstSeleniumScripts.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/elements.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/browsers.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/CafeBaseCode.py" />
+        <option value="$PROJECT_DIR$/SeleniumScripts/list_elements.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-60" />
+    <option name="y" value="76" />
+    <option name="width" value="1283" />
+    <option name="height" value="956" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SelfLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelfLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SelfLearn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SelfLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="SeleniumScripts" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Auto_Web/Test/test.py" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests in SeleniumScriptsUnitTest.py">
+    <configuration name="CafeBaseCode" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SelfLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumScripts/CafeBaseCode.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="NewForTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SelfLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Auto_Web/Test" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Auto_Web/Test/NewForTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SeleniumScriptsUnitTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="SelfLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in CafeBaseCode.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SelfLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SeleniumScripts/CafeBaseCode.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in SeleniumScriptsUnitTest.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="SelfLearn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumScripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.SeleniumScriptsUnitTest" />
+      <item itemvalue="Python tests.Unittests in SeleniumScriptsUnitTest.py" />
+      <item itemvalue="Python tests.Unittests in CafeBaseCode.py" />
+      <item itemvalue="Python.NewForTest" />
+      <item itemvalue="Python.CafeBaseCode" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests in SeleniumScriptsUnitTest.py" />
+        <item itemvalue="Python.SeleniumScriptsUnitTest" />
+        <item itemvalue="Python tests.Unittests in CafeBaseCode.py" />
+        <item itemvalue="Python.CafeBaseCode" />
+        <item itemvalue="Python.NewForTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9452d258-f5e1-4c6b-af6c-e43aed18a442" name="Default Changelist" comment="" />
+      <created>1534079479032</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1534079479032</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_CafeBaseCode_py - 2018.08.15 at 09h 49m 26s.xml">
+      <configuration name="Unittests in CafeBaseCode.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 13m 42s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 15m 12s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 16m 23s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 17m 47s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 22m 21s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 23m 10s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 11h 25m 26s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 12h 09m 37s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_SeleniumScriptsUnitTest_py - 2018.08.15 at 12h 14m 45s.xml">
+      <configuration name="Unittests in SeleniumScriptsUnitTest.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16227607" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.85721815" visible="true" weight="0.35714287" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32900432" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32900432" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.14278187" side_tool="true" visible="true" weight="0.35714287" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32900432" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20389885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947312" visible="true" weight="0.4599567" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3982684" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.33116883" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/errorhandler.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="241" selection-start-line="241" selection-end-line="241" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="315" lean-forward="true" selection-start-line="315" selection-end-line="315" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="642" selection-start-line="642" selection-end-line="642" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/self/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypython/SampleWebApi.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/FirstTest_Selenium.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/FirstTest_Selenium2.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/geckodriver.log" />
+    <entry file="file://$PROJECT_DIR$/mypython/HelloWorld.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/RunTheTestBy.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/Sample Browser Automation.py" />
+    <entry file="file://$PROJECT_DIR$/mypython/BrowserTest.py" />
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/ss.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Auto_Web/Test/NewForTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1190">
+          <caret line="70" column="74" lean-forward="true" selection-start-line="70" selection-start-column="74" selection-end-line="70" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/kayitlar.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="85">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/datetime.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/browsers.py" />
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/ie/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-606">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Auto_Web/Test/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="79" />
+          <folding>
+            <element signature="e#53#83#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/FindChromPath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/MyFirstSeleniumScripts.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="34" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/list_elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/CafeBaseCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1573">
+          <caret line="3" column="64" selection-start-line="3" selection-start-column="64" selection-end-line="3" selection-end-column="64" />
+          <folding>
+            <marker date="1534323646256" expanded="true" signature="1275:1751" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SeleniumScripts/SeleniumScriptsUnitTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+          <folding>
+            <element signature="e#0#54#0" expanded="true" />
+            <marker date="1534323205266" expanded="true" signature="136:138" ph="..." />
+            <marker date="1534323205266" expanded="true" signature="1619:1625" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
